@@ -162,7 +162,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
+
 
 ### Next Steps
 1. **Save the File**: Create a new file in your project directory named `README.md` and copy the above content into it.
@@ -173,4 +173,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
    git push origin main  # or your branch name
    ```
 
-This README file will provide a clear understanding of your project, its setup, and its usage for anyone who might use or contribute to it in the future. If you need any more adjustments or additional sections, feel free to ask!
