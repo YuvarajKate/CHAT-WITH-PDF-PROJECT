@@ -1,6 +1,6 @@
 Sure! Below is the complete `README.md` file, including the newly added documentation:
 
-```markdown
+
 # PDF Chat Application
 
 ## Overview
