@@ -164,12 +164,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
-### Next Steps
-1. **Save the File**: Create a new file in your project directory named `README.md` and copy the above content into it.
-2. **Commit the Changes**:
-   ```bash
-   git add README.md
-   git commit -m "Add project overview and documentation"
-   git push origin main  # or your branch name
    ```
 
